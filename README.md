@@ -24,5 +24,6 @@ Drag and drop
 PyQt5 font dialog
 PyQt5 form layout
 PyQt5 box layout
-=======
 This text editor even works with all the shortcuts you have been using in your earlier. Text editor is also been now uploaded in c# 
+Text colour formatting. The support is there in QT5 for both foreground and background colours.
+=====
